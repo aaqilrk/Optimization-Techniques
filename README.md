@@ -1,4 +1,4 @@
-# Optimization-Techniques
+# Optimization Techniques
 
 ## Single Variable Calculus:
 
